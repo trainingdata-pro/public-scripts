@@ -12,9 +12,9 @@
 
 Как и в случае с созданием масок можно использовать библиотеки
 
-[Pillow](https://pypi.org/project/Pillow/)
-[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-[opencv-python](https://pypi.org/project/opencv-python/)
+[Pillow](https://pypi.org/project/Pillow/)  
+[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)  
+[opencv-python](https://pypi.org/project/opencv-python/)  
 
 ------------------
 
@@ -28,9 +28,9 @@
 
 Инструменты для работы с файлами могут быть самыми разными в зависимости от задачи, для манипуляций с файлами датасета, как правило, используются библиотеки из Python Core:
 
-[os - Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
-[shutil - High-level file operations](https://docs.python.org/3/library/shutil.html)
-[pathlib - Object-oriented filesystem paths](https://docs.python.org/3/library/pathlib.html)
+[os - Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)  
+[shutil - High-level file operations](https://docs.python.org/3/library/shutil.html)  
+[pathlib - Object-oriented filesystem paths](https://docs.python.org/3/library/pathlib.html)  
 
 ------------------
 
@@ -44,7 +44,7 @@
 
 Для этого можно использовать python-библиотеку Pillow.
 
-[Pillow](https://pillow.readthedocs.io/en/stable/)
+[Pillow](https://pillow.readthedocs.io/en/stable/)  
 
 ------------------
 
@@ -58,14 +58,14 @@
 
 Для парсинга файлов с разметкой можно использовать Python-библиотеки
 
-[Beautiful Soup Documentation - Beautiful Soup 4.9.0 documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[xml.etree.ElementTree - The ElementTree XML API](https://docs.python.org/3/library/xml.etree.elementtree.html)
+[Beautiful Soup Documentation - Beautiful Soup 4.9.0 documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)  
+[xml.etree.ElementTree - The ElementTree XML API](https://docs.python.org/3/library/xml.etree.elementtree.html)  
 
 Для работы с самими изображениями
 
-[Pillow](https://pypi.org/project/Pillow/)
-[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-[opencv-python](https://pypi.org/project/opencv-python/)
+[Pillow](https://pypi.org/project/Pillow/)  
+[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)  
+[opencv-python](https://pypi.org/project/opencv-python/)  
 
 ------------------
 
@@ -77,6 +77,6 @@
 
 ### Инструменты
 
-[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-[opencv-python](https://pypi.org/project/opencv-python/)
-[moviepy](https://pypi.org/project/moviepy/)
+[OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)  
+[opencv-python](https://pypi.org/project/opencv-python/)  
+[moviepy](https://pypi.org/project/moviepy/)  
