@@ -548,7 +548,7 @@ class Drawer:
         elif on_photo:
             root = Path('masks_on_photo')
         else:
-            root = Path('masks')
+            root = Path('')
 
         destination = destination / root
         destination.resolve()
